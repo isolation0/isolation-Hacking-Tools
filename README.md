@@ -45,8 +45,8 @@ This tool **include:**
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/isolation-Hacking-Tools/
-cd xctr-hacking-tools
+git clone https://github.com/isolation0/isolation-Hacking-Tools
+cd isolation-hacking-tools
 pip3 install -r requirements.txt
 ```
 
