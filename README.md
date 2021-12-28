@@ -46,7 +46,7 @@ This tool **include:**
 
 ```bash
 git clone https://github.com/isolation0/isolation-Hacking-Tools
-cd isolation-hacking-tools
+cd isolation-Hacking-Tools
 pip3 install -r requirements.txt
 ```
 
